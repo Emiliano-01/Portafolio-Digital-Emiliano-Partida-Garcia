@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040d2e" />
+      <stop offset="55%" stop-color="#071754" />
+      <stop offset="100%" stop-color="#0c2378" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#fbbf24" />
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#102169" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#081240" stop-opacity="0.95" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="675" fill="url(#bgGrad)" />
+  <circle cx="1050" cy="120" r="260" fill="#1d4ed8" opacity="0.18" />
+  <circle cx="140" cy="580" r="240" fill="#e2b13c" opacity="0.1" />
+
+  <!-- Top Corporate Bar -->
+  <rect x="45" y="36" width="1110" height="68" rx="14" fill="#06113b" stroke="#1e3a8a" stroke-width="2" />
+  <rect x="65" y="48" width="44" height="44" rx="10" fill="url(#goldGrad)" />
+  <text x="87" y="77" font-family="Arial, sans-serif" font-size="20" font-weight="900" fill="#040d2e" text-anchor="middle">FM</text>
+
+  <text x="125" y="66" font-family="Arial, sans-serif" font-size="19" font-weight="800" fill="#ffffff">PORTAL OPERATIVO MINERA LA ENCANTADA</text>
+  <text x="125" y="88" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#93c5fd" letter-spacing="1.2">FIRST MAJESTIC SILVER CORP. · SISTEMA INTEGRAL PWA (OFFLINE-READY)</text>
+
+  <!-- Top Badges -->
+  <rect x="865" y="53" width="128" height="34" rx="17" fill="#064e3b" stroke="#10b981" stroke-width="1.5" />
+  <circle cx="885" cy="70" r="5" fill="#10b981" />
+  <text x="900" y="75" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#a7f3d0">PWA ONLINE</text>
+
+  <rect x="1005" y="53" width="130" height="34" rx="17" fill="#1e293b" stroke="#fbbf24" stroke-width="1.5" />
+  <text x="1070" y="75" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#fde68a" text-anchor="middle">SUPABASE RLS</text>
+
+  <!-- Left Sidebar Mock -->
+  <rect x="45" y="122" width="230" height="515" rx="14" fill="#06113b" stroke="#1e3a8a" stroke-width="1.5" />
+  <text x="68" y="156" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#64748b" letter-spacing="1.5">MÓDULOS OPERATIVOS</text>
+
+  <rect x="60" y="174" width="200" height="42" rx="9" fill="#1d4ed8" />
+  <text x="80" y="200" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">1. Pases de Salida (15 Áreas)</text>
+
+  <rect x="60" y="226" width="200" height="42" rx="9" fill="#0f1f5c" />
+  <text x="80" y="252" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#cbd5e1">2. Autorización Dual + RH</text>
+
+  <rect x="60" y="278" width="200" height="42" rx="9" fill="#0f1f5c" stroke="#fbbf24" stroke-width="1" />
+  <text x="80" y="304" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#fde68a">3. Logística 6 Autobuses</text>
+
+  <rect x="60" y="330" width="200" height="42" rx="9" fill="#0f1f5c" />
+  <text x="80" y="356" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#cbd5e1">4. Despacho Campamento</text>
+
+  <rect x="60" y="382" width="200" height="42" rx="9" fill="#0f1f5c" />
+  <text x="80" y="408" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#cbd5e1">5. Garita SEPMISA (QR)</text>
+
+  <!-- QR Security Box inside sidebar -->
+  <rect x="65" y="450" width="190" height="165" rx="12" fill="#091952" stroke="#2563eb" stroke-width="1.5" />
+  <text x="160" y="476" font-family="Arial, sans-serif" font-size="12" font-weight="800" fill="#93c5fd" text-anchor="middle">CONTROL GARITA QR</text>
+  <rect x="115" y="490" width="90" height="90" rx="8" fill="#ffffff" />
+  <rect x="125" y="500" width="24" height="24" fill="#071754" />
+  <rect x="171" y="500" width="24" height="24" fill="#071754" />
+  <rect x="125" y="546" width="24" height="24" fill="#071754" />
+  <rect x="153" y="528" width="16" height="16" fill="#e2b13c" />
+  <rect x="171" y="546" width="24" height="24" fill="#1d4ed8" />
+  <text x="160" y="600" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#34d399" text-anchor="middle">✓ ABORDAJE VERIFICADO</text>
+
+  <!-- KPI Cards Row -->
+  <rect x="295" y="122" width="275" height="105" rx="14" fill="url(#cardGrad)" stroke="#1e40af" stroke-width="1.5" />
+  <text x="318" y="152" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#93c5fd">CADENA JERÁRQUICA</text>
+  <text x="318" y="190" font-family="Arial, sans-serif" font-size="30" font-weight="900" fill="#ffffff">15 Áreas</text>
+  <text x="318" y="212" font-family="Arial, sans-serif" font-size="12" fill="#cbd5e1">Jefe Inmediato + Seg. Ind. + RH</text>
+
+  <rect x="588" y="122" width="275" height="105" rx="14" fill="url(#cardGrad)" stroke="#fbbf24" stroke-width="1.5" />
+  <text x="611" y="152" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#fde68a">FLOTILLA FORÁNEA (14×7)</text>
+  <text x="611" y="190" font-family="Arial, sans-serif" font-size="30" font-weight="900" fill="#ffffff">6 Camiones</text>
+  <text x="611" y="212" font-family="Arial, sans-serif" font-size="12" fill="#cbd5e1">50 plazas · DGO, CUU, MZQ, OCA, N.R.</text>
+
+  <rect x="880" y="122" width="275" height="105" rx="14" fill="url(#cardGrad)" stroke="#10b981" stroke-width="1.5" />
+  <text x="903" y="152" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#6ee7b7">TIEMPO DE CICLO</text>
+  <text x="903" y="190" font-family="Arial, sans-serif" font-size="30" font-weight="900" fill="#34d399">&lt; 15 min</text>
+  <text x="903" y="212" font-family="Arial, sans-serif" font-size="12" fill="#cbd5e1">100% digital y auditable en tiempo real</text>
+
+  <!-- Main Interactive Bus Seating & Workflow Panel -->
+  <rect x="295" y="245" width="860" height="392" rx="14" fill="url(#cardGrad)" stroke="#1e3a8a" stroke-width="1.5" />
+  <text x="322" y="282" font-family="Arial, sans-serif" font-size="17" font-weight="800" fill="#ffffff">SIMULADOR INTERACTIVO DE ASIGNACIÓN DE AUTOBUSES Y PASES AUTORIZADOS</text>
+  <text x="322" y="304" font-family="Arial, sans-serif" font-size="13" fill="#93c5fd">Corrida Rol A · Salida de Unidad Minera La Encantada ➔ Durango / Chihuahua / Múzquiz (50 Asientos)</text>
+
+  <!-- Bus Diagram Container -->
+  <rect x="322" y="324" width="520" height="285" rx="12" fill="#061038" stroke="#1d4ed8" stroke-width="1.5" />
+  <text x="345" y="352" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#fbbf24">FRENTE DEL AUTOBÚS · OPERADOR</text>
+
+  <!-- Bus Seat Grid Rows -->
+  <g transform="translate(345, 370)">
+    <!-- Row 1 (Occupied Green/Blue) -->
+    <rect x="0" y="0" width="44" height="36" rx="6" fill="#059669" /><text x="22" y="23" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#01</text>
+    <rect x="54" y="0" width="44" height="36" rx="6" fill="#059669" /><text x="76" y="23" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#05</text>
+    <rect x="108" y="0" width="44" height="36" rx="6" fill="#059669" /><text x="130" y="23" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#09</text>
+    <rect x="162" y="0" width="44" height="36" rx="6" fill="#2563eb" /><text x="184" y="23" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#13</text>
+    <rect x="216" y="0" width="44" height="36" rx="6" fill="#2563eb" /><text x="238" y="23" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#17</text>
+    <rect x="270" y="0" width="44" height="36" rx="6" fill="#059669" /><text x="292" y="23" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#21</text>
+    <rect x="324" y="0" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="346" y="23" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#25</text>
+    <rect x="378" y="0" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="400" y="23" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#29</text>
+    <rect x="432" y="0" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="454" y="23" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#33</text>
+
+    <!-- Row 2 -->
+    <rect x="0" y="46" width="44" height="36" rx="6" fill="#059669" /><text x="22" y="69" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#02</text>
+    <rect x="54" y="46" width="44" height="36" rx="6" fill="#2563eb" /><text x="76" y="69" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#06</text>
+    <rect x="108" y="46" width="44" height="36" rx="6" fill="#059669" /><text x="130" y="69" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#10</text>
+    <rect x="162" y="46" width="44" height="36" rx="6" fill="#059669" /><text x="184" y="69" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#14</text>
+    <rect x="216" y="46" width="44" height="36" rx="6" fill="#d97706" /><text x="238" y="69" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#18</text>
+    <rect x="270" y="46" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="292" y="69" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#22</text>
+    <rect x="324" y="46" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="346" y="69" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#26</text>
+    <rect x="378" y="46" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="400" y="69" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#30</text>
+    <rect x="432" y="46" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="454" y="69" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#34</text>
+
+    <!-- Aisle -->
+    <text x="238" y="110" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#64748b" text-anchor="middle" letter-spacing="4">PASILLO CENTRAL DE UNIDAD</text>
+
+    <!-- Row 3 -->
+    <rect x="0" y="128" width="44" height="36" rx="6" fill="#059669" /><text x="22" y="151" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#03</text>
+    <rect x="54" y="128" width="44" height="36" rx="6" fill="#059669" /><text x="76" y="151" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#07</text>
+    <rect x="108" y="128" width="44" height="36" rx="6" fill="#2563eb" /><text x="130" y="151" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#11</text>
+    <rect x="162" y="128" width="44" height="36" rx="6" fill="#059669" /><text x="184" y="151" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#15</text>
+    <rect x="216" y="128" width="44" height="36" rx="6" fill="#059669" /><text x="238" y="151" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#19</text>
+    <rect x="270" y="128" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="292" y="151" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#23</text>
+    <rect x="324" y="128" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="346" y="151" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#27</text>
+    <rect x="378" y="128" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="400" y="151" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#31</text>
+    <rect x="432" y="128" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="454" y="151" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#35</text>
+
+    <!-- Row 4 -->
+    <rect x="0" y="174" width="44" height="36" rx="6" fill="#2563eb" /><text x="22" y="197" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#04</text>
+    <rect x="54" y="174" width="44" height="36" rx="6" fill="#059669" /><text x="76" y="197" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#08</text>
+    <rect x="108" y="174" width="44" height="36" rx="6" fill="#059669" /><text x="130" y="197" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#12</text>
+    <rect x="162" y="174" width="44" height="36" rx="6" fill="#d97706" /><text x="184" y="197" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#16</text>
+    <rect x="216" y="174" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="238" y="197" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#20</text>
+    <rect x="270" y="174" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="292" y="197" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#24</text>
+    <rect x="324" y="174" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="346" y="197" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#28</text>
+    <rect x="378" y="174" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="400" y="197" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#32</text>
+    <rect x="432" y="174" width="44" height="36" rx="6" fill="#1e293b" stroke="#3b82f6" /><text x="454" y="197" font-family="Arial" font-size="12" font-weight="700" fill="#93c5fd" text-anchor="middle">#36</text>
+  </g>
+
+  <!-- Right Stack Panel inside Main Card -->
+  <rect x="862" y="324" width="268" height="285" rx="12" fill="#061038" stroke="#1e3a8a" stroke-width="1.5" />
+  <text x="884" y="354" font-family="Arial, sans-serif" font-size="13" font-weight="800" fill="#ffffff">STACK EMPRESARIAL</text>
+
+  <rect x="884" y="372" width="224" height="38" rx="8" fill="#0f246c" />
+  <text x="900" y="396" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#93c5fd">⚛ React 18 + TypeScript + Vite</text>
+
+  <rect x="884" y="420" width="224" height="38" rx="8" fill="#0f246c" />
+  <text x="900" y="444" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#6ee7b7">⚡ Supabase PostgreSQL &amp; RLS</text>
+
+  <rect x="884" y="468" width="224" height="38" rx="8" fill="#0f246c" />
+  <text x="900" y="492" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#fde68a">📱 PWA Offline + Service Worker</text>
+
+  <rect x="884" y="516" width="224" height="38" rx="8" fill="#0f246c" />
+  <text x="900" y="540" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#f9a8d4">🔒 Escáner QR Garita SEPMISA</text>
+
+  <rect x="884" y="566" width="224" height="30" rx="6" fill="url(#goldGrad)" />
+  <text x="996" y="586" font-family="Arial, sans-serif" font-size="12" font-weight="900" fill="#040d2e" text-anchor="middle">MANIFIESTO OFICIAL PDF/EXCEL</text>
+</svg>
